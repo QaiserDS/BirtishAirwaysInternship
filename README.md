@@ -14,3 +14,6 @@ Data science virtual internship programme by British Airways through Forage!
 - preparing a powerpoint representation to highlight our insights and analysis
 
 **Program link**: [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=87jnjsrQEx6guHcaq)
+
+![image](https://github.com/QaiserDS/BritishAirwaysInternship/assets/95518289/f5dd6428-90a5-41a0-b14b-b5f4cecd963f)
+
